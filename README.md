@@ -36,6 +36,12 @@ Mediante la terminal, te conectarás a varios escenarios que simularán ser empl
 
 Tendrás que recabar información y pistas que te ayudarán a obtener algo muy secreto que no debería compartirse por teléfono (la bandera).
 
+### Nota:
+
+Para cambiar de extensión solo di "Llamar extensión <Numero>"
+
+Para terminar la llamada solo di "Terminar llamada"
+
 ## Note
 
 We use some AWS resources that might be down when you want to use this script. If that happens, just [ping me on X](https://x.com/todmephis), and I will deploy the environment in our backend for you :)
