@@ -62,7 +62,7 @@ def split_by_actual_punctuation(input_str):
             i += 1
     return joined_list
 api_keys, scenarios = getArtifacts.getScriptArtifacts(
-    base64.b64decode(base64.b64decode('ZFhNdFpXRnpkQzB5T2pRNE56VXhNR0ptTFdZMVpXUXRORFk0TnkwNFltSmhMVE5pWW1NeFpEWTNOemt4Wmc9PQ==')).decode('utf-8'),
+    base64.b64decode(base64.b64decode('ZFhNdFpXRnpkQzB4T2pSaVkyRXlZVFk1TFRCalpqSXRORE13TWkxaU9UTmtMVGxqTXpKbE5tSXdNMlZtTVE9PQ==')).decode('utf-8'),
     base64.b64decode(base64.b64decode('WjJWMFZtbHphR2x1WjFOamNtbHdkRUZ5ZEdsbVlXTjBjdz09')).decode('utf-8')
 )
 if api_keys is not None:
